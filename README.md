@@ -4,21 +4,12 @@ This project uses a deep learning model to classify images of cats and dogs. It 
 
 ---
 
-## Model Predictions
-Here are some examples of the model predicting on new images.
-
-| Cat Prediction | Dog Prediction |
-| :---: | :---: |
-| ![A cat being correctly identified](cat prediction.png) | ![A dog being correctly identified](dog prediction.png) |
-
-(Note: Make sure your image file names exactly match what you have in the code above.)
-
----
-
 ## Training Performance
 The model's performance during training is shown below, plotting accuracy and loss for both the training and validation sets.
 
 ![Model Training Curves](training_curves.png)
+
+*(Note: Make sure the filename training_curves.png exactly matches the name of the file you uploaded.)*
 
 ---
 
@@ -40,5 +31,4 @@ The model's performance during training is shown below, plotting accuracy and lo
 * **.ipynb notebook**: The main file with all the code for training and evaluation.
 * **final_image_classifier.keras**: The final trained and saved model.
 * **requirements.txt**: A list of Python libraries needed to run the project.
-* **Image files (.png): Visual results of model predictions and training curves.
-Image clasification with tensorflow to identify cats and dogs.
+* **training_curves.png**: A visual result of the model's training performance.
