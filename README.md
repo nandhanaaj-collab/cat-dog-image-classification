@@ -28,7 +28,7 @@ The model's performance during training is shown below, plotting accuracy and lo
 ---
 
 ## Project Files
-* **.ipynb notebook**: The main file with all the code for training and evaluation.
+* cat-dog-clasification.ipynb notebook**: The main file with all the code for training and evaluation.
 * **final_image_classifier.keras**: The final trained and saved model.
 * **requirements.txt**: A list of Python libraries needed to run the project.
 * **training_curves.png**: A visual result of the model's training performance.
