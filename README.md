@@ -9,7 +9,7 @@ The model's performance during training is shown below, plotting accuracy and lo
 
 ![Model Training Curves](training_curves.png)
 
-*(Note: Make sure the filename training_curves.png exactly matches the name of the file you uploaded.)*
+
 
 ---
 
